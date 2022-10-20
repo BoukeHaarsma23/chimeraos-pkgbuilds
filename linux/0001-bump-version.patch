@@ -1,0 +1,13 @@
+diff --git a/Makefile b/Makefile
+index aa449693ad09d..5f72ddf03bb0f 100644
+--- a/Makefile
++++ b/Makefile
+@@ -2,7 +2,7 @@
+ VERSION = 6
+ PATCHLEVEL = 0
+ SUBLEVEL = 2
+-EXTRAVERSION =
++EXTRAVERSION = -arch1-bouhaa
+ NAME = Hurr durr I'ma ninja sloth
+ 
+ # *DOCUMENTATION*
