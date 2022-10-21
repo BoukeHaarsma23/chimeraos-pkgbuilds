@@ -63,7 +63,7 @@ prepare() {
 
 build() {
   cd $_srcname
-  make htmldocs all -j${nproc}
+  make htmldocs all -j8
 }
 
 _package() {
